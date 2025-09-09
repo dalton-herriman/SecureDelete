@@ -5,4 +5,6 @@ Securely delete files by overwriting them with random data multiple times
 clang main.c
 ```
 ### Use
+```bash
 ./a.out <file> [passes]
+```
