@@ -1,5 +1,5 @@
 ## SecureDelete
-Securely delete files but overwriting them with random data multiple times
+Securely delete files by overwriting them with random data multiple times
 ### Build
 ```bash
 clang main.c
